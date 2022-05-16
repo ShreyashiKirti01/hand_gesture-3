@@ -1,0 +1,74 @@
+body
+{
+  color: white;
+  background: url("download.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: 'Comforter', cursive;
+font-family: 'Dancing Script', cursive;
+font-family: 'Lobster', cursive;
+
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+  background-color: rgb(197, 197, 197);
+}
+#result_emotion_name ,#result_emotion_name2  
+{
+  color: rgb(232, 222, 222);
+}
+.sign_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+
+
+.heading{
+letter-spacing: 13px;
+font-size: 14px;
+border-radius: 10px;
+background: linear-gradient(to right, rgb(110, 110, 130) 30%, rgb(57, 18, 94) 100%);
+width: 50%;
+height: 60px;
+padding-top: 5px;
+font-family: 'Comforter', cursive;
+font-family: 'Dancing Script', cursive;
+color: black;
+font-weight:bolder;
+font-family: 'Pacifico', cursive;
+}
+
+label{
+font-size: 16px;
+color: rgb(224, 244, 250);
+background-color: #2f252d;
+padding: 9px;
+border-radius: 10px;
+letter-spacing: 2px;
+}
+
+button{
+background-color: rgba(74, 74, 169, 0.39);
+border-radius: 20px;
+height: 50px;
+width: 300px;
+font-size: 17px;
+}
+
+p:hover{
+background: linear-gradient(to left, rgb(123, 159, 147) 20%, rgb(202, 202, 135) 70%, rgb(47, 34, 47) 100%);
+border-radius: 30px;
+color: black;
+}
+
